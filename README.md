@@ -17,4 +17,5 @@ To become a better Engineer
 - [ ] Rust book
 - [ ] Rustlings
 - [ ] Toy Blockchain
+- [ ] Derivatives Pricing (Black and Scholes to begin with)
 
