@@ -1,4 +1,3 @@
 ## Courses
-[] Advanced Solidity
-[]
+- [x] Advanced Solidity
 
