@@ -6,6 +6,7 @@
 - [ ] Algorithms and datastructures 
 
 ## Solidity
+To understand how blockchains work and especially the EVM
 - [x] CryptoZombies
 - [ ] Ethernaut
 - [ ] Implementation of various AMM's
