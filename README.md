@@ -3,13 +3,13 @@
 
 ## Solidity
 - [x] CryptoZombies
-- [] Ethernaut
-- []
+- [ ] Ethernaut
+- [ ]
 
 
 ## Rust
 To become a better Engineer 
-- [] Rust book
-- [] Rustlings
-- [] Toy Blockchain
+- [ ] Rust book
+- [ ] Rustlings
+- [ ] Toy Blockchain
 
