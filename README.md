@@ -8,7 +8,7 @@
 ## Solidity
 - [x] CryptoZombies
 - [ ] Ethernaut
-- [ ] 
+- [ ] Implementation of various AMM's
 
 
 ## Rust
