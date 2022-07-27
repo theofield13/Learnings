@@ -4,6 +4,8 @@
 - [ ] Distributed systems
 - [ ] Operating systems
 - [ ] Algorithms and datastructures 
+- [ ] FreeCodeCamp FastAPI
+- [ ] FreeCodeCamp Docker
 
 ## Solidity
 To understand how blockchains work and especially the EVM
